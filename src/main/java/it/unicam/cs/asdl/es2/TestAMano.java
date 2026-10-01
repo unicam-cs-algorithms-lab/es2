@@ -1,7 +1,7 @@
 /**
  * 
  */
-package it.unicam.cs.asdl2526.es2;
+package it.unicam.cs.asdl.es2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
