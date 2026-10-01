@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.unicam.cs.asdl.es2","l":"Burglar"},{"p":"it.unicam.cs.asdl.es2","l":"CombinationLock"}];updateSearchResults();
